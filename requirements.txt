@@ -1,0 +1,8 @@
+Libraries needed
+pandas
+numpy
+yfinance
+scikit-learn
+matplotlib
+alpaca-trade-api
+joblib
