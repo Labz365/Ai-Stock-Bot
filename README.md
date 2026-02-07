@@ -73,10 +73,6 @@ python src/train_model.py
 python src/run_bot.py
 ```
 
-Or with the GUI:
-```bash
-python src/run_bot_gui.py
-```
 
 ### 6. Monitor performance
 ```bash
